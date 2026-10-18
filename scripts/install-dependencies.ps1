@@ -1,4 +1,4 @@
-# This is used in a task in .vscode/tasks.json when on windows
+installing# This is used in a task in .vscode/tasks.json when on windows
 # Start developing with:
 # - Run Task -> Install Dependencies
 # - Debug -> Extension
